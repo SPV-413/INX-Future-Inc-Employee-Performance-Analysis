@@ -122,4 +122,7 @@ The performance of the models are as follows:
 - **Data-Driven Hiring** - Use the predictive model to hire high-potential employees.
 
 ## **Conclusion**
-By implementing these recommendations, INX Future Inc. can further enhance employee performance, engagement, and satisfaction, leading to a more productive and successful organization
+By implementing these recommendations, INX Future Inc. can further enhance employee performance, engagement, and satisfaction, leading to a more productive and successful organization.
+
+## Contact
+For any inquiries, reach out via GitHub or email.
