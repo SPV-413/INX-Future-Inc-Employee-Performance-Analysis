@@ -2,7 +2,6 @@
 ## **Project Summary** 
 INX Future Inc. has observed a decline in employee performance, leading to increased escalations and an 8% drop in client satisfaction. To address this, a data science project was initiated to analyze employee performance, identify key influencing factors, and provide recommendations for improvement.
 
----
 ## **Requirement**
 The data for this project was provided by **IABAC™** and is based on **INX Future Inc.** (referred to as INX). INX is a leading data analytics and automation solutions provider with over 15 years of global presence and has been consistently rated among the top 20 best employers over the past 5 years.
 
@@ -10,7 +9,6 @@ The data for this project was provided by **IABAC™** and is based on **INX Fut
 
 The entire project was conducted in **Jupyter Notebook** using the **Python** programming platform.
 
----
 ## **Analysis**
 ### i) **Dataset Overview**
 - **Source**: INX_Future_Inc_Employee_Performance_CDS_Project2_Data_V1.8.csv
@@ -96,7 +94,7 @@ The performance of the models are as follows:
 | **LogisticRegression** | **77.5%**   |
 | **KNeighborsClassifier** | **65.42%**   |
 
----
+
 # **Goals and Insights**
 ## 1. **Department-wise Performance**
 - **Top Performing Departments**:
@@ -123,6 +121,5 @@ The performance of the models are as follows:
 - **Targeted Training for Low-Performing Departments** - Finance and Sales teams should undergo specialized training.
 - **Data-Driven Hiring** - Use the predictive model to hire high-potential employees.
 
----
 ## **Conclusion**
 By implementing these recommendations, INX Future Inc. can further enhance employee performance, engagement, and satisfaction, leading to a more productive and successful organization
